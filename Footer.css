@@ -1,0 +1,17 @@
+
+.member-last {
+  text-align: center;
+  padding: 30px;
+}
+
+.member-last img {
+  width: 180px;
+  border-radius: 50%;
+}
+
+.team-footer {
+  text-align: center;
+  padding: 20px;
+  background: #222;
+  color: white;
+}
