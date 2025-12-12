@@ -1,0 +1,15 @@
+.members-row {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  padding: 40px;
+}
+
+.member-box {
+  text-align: center;
+}
+
+.member-box img {
+  width: 160px;
+  border-radius: 50%;
+}
